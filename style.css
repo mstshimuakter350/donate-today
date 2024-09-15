@@ -1,0 +1,223 @@
+*{
+    margin: 0px;
+}
+body{
+    font-family: "Inter", sans-serif;
+    font-family: "Poppins", sans-serif;
+    /* font-family: "Lobster", sans-serif; */
+}   
+    /* Let’s Help Those Who Are More In Need */
+.head{
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.frist{
+    padding: 174px 307px 175px 307px;
+    text-align: center;
+}
+
+.second{
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 65px;
+    color: #ffffff;
+}
+.lorem{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 18px;
+    color: #ffffff;
+}
+.btn{
+    padding: 16px 20px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    border: none;
+    color: #ffffff;
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: 20px;
+}
+            /* Donate Toda */
+.donate-today{
+    margin: 130px 375px;
+    text-align: center;
+    /* border: 1px solid red; */
+
+}
+.donat{
+    font-weight: bold;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.paragraph{
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+}
+.donat-tk{
+    list-style: none;
+    display: flex;
+    /* justify-content: space-around; */
+    /* padding: 44px 12px 44px 12px; */
+    
+}
+.tkkk{
+    background-color: #FAFAFA;
+    /* padding: 43px 23px 44px 24px; */
+    padding: 43px 15px 44px 15px;
+    font-weight: 700;
+    font-size: 30px;
+    border-radius: 5px;
+    margin-right: 22px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #707070; 
+}
+.tkkk:hover{
+    background-color: #ffeeee;
+    color: #FF5959;
+    border: 2px solid #FF5959;
+}
+.amount{
+    font-weight: 400;
+    font-size: 18px;
+    color: #B3B3B3;
+}
+            /* Our Donate Plan */
+.donat-plan{
+    padding: 50px 375px;
+    text-align: center;
+}
+.Plan{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.baba{
+    /* text-align: center; */
+    display: flex;
+    /* padding: 0px 117px; */
+    margin: 0px 157px 0px 155px;
+    
+}
+.food{
+   padding: 60px 23px 54px 22px;
+    background-color: #eef6f7;
+    margin-left: 22px;
+    border-radius: 5px;
+}
+.family{
+    padding: 60px 23px 54px 22px;
+    background-color: #ffefef;
+    margin-left: 22px;
+    border-radius: 5px;
+}
+.frame{
+    padding: 60px 23px 54px 22px;
+    background-color: #fff4d6;
+    margin-left: 22px;
+    border-radius: 5px;
+}
+.color{
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 31px;
+    margin-bottom: 20px;
+}
+.ragular{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+}
+        /* Their lives depend on your donation */  
+.sober{
+ /* padding: 130px 156px 130px 256px; */
+ margin: 130px 252px 130px 156px;
+
+}                                                          
+ .your-donation{
+    display: flex;
+}
+.rohan{ 
+    margin-right: 83px;
+}
+.live{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.how-to{
+    padding: 16px 21px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #FF5959;
+    border: none;
+    font-weight: 600;
+    font-size:20px ;
+    margin-top: 30px;
+}
+.image{
+    margin-top: 150px;
+    margin-right: 83px;
+}
+.they{
+   margin-top: 152px;
+}
+/* Get My Updates foot ar kaj */
+.get-my{
+    padding: 0px 374px 50px 374px;
+    text-align: center;
+}
+.Updates{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.subs{
+margin: 0px 316px 130px 315px;
+background-color: #FFF4D6;
+text-align: center;
+}
+  .email{
+    /* text-align: center; */
+    padding: 76px 176px;
+
+}
+.box{
+    padding: 14px 100px 14px 17px;
+    border-radius: 5px;
+    color: #AA9F9F;
+    background-color: #D9D9D9;
+    border: none;
+}
+.buton{
+    padding: 14px 43px 14px 42px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #FF5959;
+    border: none;
+} 
+.sase{
+    background-color: #0B0D17;
+}
+.bee{
+    text-align: center;
+    /* border: 2px solid red; */
+    padding: 43px 0px 42px 0px;
+}
+.humble{
+ color: #FF5959;
+ font-family: Lobster; 
+ font-weight: 400; 
+ font-size: 36px;
+}
+.do-it{
+    color: #D9DBE1;
+    font-weight: 400;
+    font-size: 14px;
+}
+
